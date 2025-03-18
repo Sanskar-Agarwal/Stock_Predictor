@@ -20,7 +20,7 @@
   </p>
 
   <h3>Technologies</h3>
-Python Programming, Jupyter Notebook
+Python Programming, Jupyter Notebook,
 Yahoo Finance, Scikit-Learn
 
 <h3>Authors</h3>
